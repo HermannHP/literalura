@@ -112,5 +112,7 @@ src/main/java/com/hermann/literalura/
 ```
 
 ---
+<img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/56ab174c-600c-443f-8193-7c17beec8cd1" />
+
 
 Desenvolvido por **Hermann** como parte do Challenge Back-End Java — Alura + Oracle ONE.
